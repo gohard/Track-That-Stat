@@ -1,0 +1,11 @@
+Month
+23 sep2011-23oct2011
+23 aug -22 sept
+
+Day
+23oct- 23oct
+22oct=22oct
+
+week
+17oct-23oct
+10oct-16oct
