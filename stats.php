@@ -1,7 +1,8 @@
 <?php
 class Stats{
 
-	//This function is used to display traffic increase decrease percent with respect to day, week and month
+	//This function is used to display traffic increase decrease percent with respect to day, week and month,
+	//also now includes GLOCK.php includes for http requests and pings
 	function traffic_change_data1($days){
 		global $wpdb;
 		$flag = 0;  //flag = 0 for decrease
